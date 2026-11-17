@@ -1,4 +1,5 @@
-const nomeProduto = "mouse";
+// Atividade 1: variáveis e tipos
+const nomeProduto = "teclado;
 let preco = 99.9;
 let quantidade = 100;
 let temEstoque = true;
