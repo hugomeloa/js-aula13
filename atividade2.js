@@ -1,3 +1,4 @@
+// Atividade 2: prompt, conversão e desconto
 const nomeProduto = "Teclado";
 let preco = 100;
 let quantidade = 100;
