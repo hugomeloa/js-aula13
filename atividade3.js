@@ -1,3 +1,4 @@
+// Atividade 3: soma com parseFloat
 let n1 = parseFloat(prompt("Primeiro número:"));
 let n2 = parseFloat(prompt("Segundo número:"));
 
